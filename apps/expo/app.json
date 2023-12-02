@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "solito-blank",
-    "slug": "solito-blank",
+    "slug": "docume-dev",
     "version": "1.0.0",
     "scheme": "solito-blank",
     "platforms": [
@@ -9,7 +9,16 @@
       "android"
     ],
     "ios": {
-      "bundleIdentifier": "com.solito.blank"
-    }
+      "bundleIdentifier": "com.docume-dev"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0e575e49-c347-4607-8066-d754fe58609b"
+      }
+    },
+    "android": {
+      "package": "com.solito.blank"
+    },
+    "owner": "umartinez"
   }
 }
