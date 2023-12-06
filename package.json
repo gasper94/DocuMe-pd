@@ -15,5 +15,10 @@
     "native": "cd apps/expo && yarn start",
     "web": "cd apps/next && yarn next"
   },
-  "packageManager": "yarn@3.4.1"
+  "dependencies": {},
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://gasper94: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@github.com/gasper94/DocuMe-pd.git",
+  "author": "gasper94 <ulimarmol94@gmail.com>",
+  "license": "MIT"
 }

@@ -9,6 +9,7 @@ const nextConfig = {
   // once that gets fixed, set this back to true
   reactStrictMode: false,
   transpilePackages: [
+    'react-native-svg',
     'react-native',
     'react-native-web',
     'solito',
